@@ -240,7 +240,7 @@ $ sudo bash evcc.sh <interface name>
     * Project director, Supporting developer
 * Sukjune Lee (robin00q at naver DOT com)
     * Main developer
-* Kangsan Jang (rkdtks1005 AT gmail DOT com)
+* Kangsan Chang (kangsanchang AT gmail DOT com)
     * Main developer (shell scripts & gawk)
 * Sungha Yoon (ysh5811 AT gmail DOT com)
     * Supporting developer (platform & testing & git repository)
